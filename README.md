@@ -1,6 +1,3 @@
-<!--START_SECTION:lapras-card-->
-<!--END_SECTION:lapras-card-->
-
 #### tmux.conf
 https://gist.github.com/kuangyujing/58873e997ad40a2a757c3aa4ce35ae13
 
