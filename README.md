@@ -1,3 +1,5 @@
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuangyujing&hide=stars&count+private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 #### tmux.conf
 https://gist.github.com/kuangyujing/58873e997ad40a2a757c3aa4ce35ae13
 
