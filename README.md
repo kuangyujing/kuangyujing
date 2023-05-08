@@ -1,5 +1,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuangyujing&hide=stars&count+private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+## Top Gists
+
 #### tmux.conf
 https://gist.github.com/kuangyujing/58873e997ad40a2a757c3aa4ce35ae13
 
@@ -7,6 +9,8 @@ https://gist.github.com/kuangyujing/58873e997ad40a2a757c3aa4ce35ae13
 https://gist.github.com/kuangyujing/5b0e16fb341ab4aaef2c4afeb287bf29
 
 ---
+
+## Top Repos
 
 #### [xfce4-terminal](https://github.com/dracula/xfce4-terminal)
 
