@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api/?username=kuangyujing\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&include_all_commits=true\&rank_icon=github)
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=kuangyujing\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&include_all_commits=true\&rank_icon=github&hide=contribs)
 
 ## Top Gists
 
