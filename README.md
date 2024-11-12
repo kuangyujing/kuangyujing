@@ -20,3 +20,6 @@ Dark theme for xfce4-terminal
 
 Vim plugin for modern HTML5 syntax hightlight and indentation
 
+#### [minimap.vim](https://github.com/kuangyujing/minimap.vim)
+
+ Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
