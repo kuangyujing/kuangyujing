@@ -18,3 +18,11 @@ Vim plugin for modern HTML5 syntax hightlight and indentation
 #### [minimap.vim](https://github.com/kuangyujing/minimap.vim)
 
 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
+
+## Memo
+
+Delete all containers including its volumes and images
+```sh
+docker rm -vf $(docker ps -aq)
+docker rmi -f $(docker images -aq)
+```
