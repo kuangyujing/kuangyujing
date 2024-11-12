@@ -2,13 +2,8 @@
 
 ## Top Gists
 
-#### tmux.conf
-https://gist.github.com/kuangyujing/58873e997ad40a2a757c3aa4ce35ae13
-
 #### How to start tmux with attach if a session exists
 https://gist.github.com/kuangyujing/5b0e16fb341ab4aaef2c4afeb287bf29
-
----
 
 ## Top Repos
 
@@ -22,4 +17,4 @@ Vim plugin for modern HTML5 syntax hightlight and indentation
 
 #### [minimap.vim](https://github.com/kuangyujing/minimap.vim)
 
- Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
+Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
