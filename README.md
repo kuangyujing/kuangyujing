@@ -5,6 +5,9 @@
 #### How to start tmux with attach if a session exists
 https://gist.github.com/kuangyujing/5b0e16fb341ab4aaef2c4afeb287bf29
 
+#### Create Service Principal for Dataverse
+https://gist.github.com/kuangyujing/e63b18370a27bfad072e69244753f4f2
+
 ## Top Repos
 
 #### [xfce4-terminal](https://github.com/dracula/xfce4-terminal)
