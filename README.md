@@ -30,5 +30,12 @@ docker rmi -f $(docker images -aq)
 
 Disable Claude Code Symbols that cause Tofu on macOS
 ```sh
-sudo sed -i '' -e 's/⏸//g' -e 's/⏵⏵//g' -e 's/⇢//g' /usr/local/node/lib/node_modules/@anthropic-ai/claude-code/cli.js
+sudo sed -i '' -e $'s/\u23F8//g' -e $'s/\u23F5\u23F5//g' -e $'s/\u21E2//g' /path/to/lib/node_modules/@anthropic-ai/claude-code/cli.js
+```
+
+```sh
+PAUSE=$(printf '\u23F8') # DOUBLE VERTICAL BAR
+PLAY=$(printf '\u23F5\u23F5') # BLACK MEDIUM RIGHT-POINTING TRIANGLE
+ARROW=$(printf '\u21E2') # RIGHTWARDS DASHED ARROW
+sudo sed -i '' -e "s/$PAUSE//g" -e "s/$PLAY//g" -e "s/$ARROW//g" /path/to/lib/node_modules/@anthropic-ai/claude-code/cli.js
 ```
