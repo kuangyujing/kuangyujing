@@ -27,3 +27,8 @@ Delete all containers including its volumes and images
 docker rm -vf $(docker ps -aq)
 docker rmi -f $(docker images -aq)
 ```
+
+Disable Claude Code Symbols that cause Tofu on macOS
+```sh
+sudo sed -i '' -e 's/⏸//g' -e 's/⏵⏵//g' -e 's/⇢//g' /usr/local/node/lib/node_modules/@anthropic-ai/claude-code/cli.js
+```
