@@ -1,5 +1,8 @@
 ## Top Gists
 
+#### Grill Me Skill Improved
+https://gist.github.com/kuangyujing/117a84d60d1b70acc15bc0eaccb507d0
+
 #### How to start tmux with attach if a session exists
 https://gist.github.com/kuangyujing/5b0e16fb341ab4aaef2c4afeb287bf29
 
