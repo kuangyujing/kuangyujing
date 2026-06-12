@@ -29,7 +29,7 @@ Spec-driven Development Kit for Power Platform
 
 ## CLAUDE.md Tips
 
-Suppress emoji and ambitious width symbols
+Suppress emoji and ambiguous-width symbols
 ```
 ## Terminal Output Rules
 - Do not use emoji (such as ✅ ❌ 🚀 🎉) in any output, including response text, file contents, and commit titles. For status indicators, use ASCII markers such as [x], [ ], OK, NG, or DONE instead.
