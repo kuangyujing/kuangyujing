@@ -23,7 +23,7 @@ Vim plugin for modern HTML5 syntax hightlight and indentation
 
 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 
-#### ppower-platform-sdd](https://github.com/kuangyujing/power-plstform-sdd)
+#### power-platform-sdd](https://github.com/kuangyujing/power-plstform-sdd)
 
 Spec-driven Development Kit for Power Platform
 
