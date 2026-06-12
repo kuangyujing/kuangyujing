@@ -23,6 +23,20 @@ Vim plugin for modern HTML5 syntax hightlight and indentation
 
 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 
+#### ppower-platform-sdd](https://github.com/kuangyujing/power-plstform-sdd)
+
+Spec-driven Development Kit for Power Platform
+
+## CLAUDE.md Tips
+
+Suppress emoji and ambitious width symbols
+```
+## Terminal Output Rules
+- Do not use emoji (such as ✅ ❌ 🚀 🎉) in any output, including response text, file contents, and commit titles. For status indicators, use ASCII markers such as [x], [ ], OK, NG, or DONE instead.
+- Do not use circled numbers, geometric symbols, or arrow symbols. Use ASCII equivalents: (1) (2) (3) or 1. 2. 3. for ① ② ③; *, -, + for ★ ☆ ● ○ ◆ ■ ▲; ->, <-, ^, v for → ← ↑ ↓.
+- Box Drawing characters (─ │ ┌ ┐ ┘ └, etc.) may be used as-is.
+```
+
 ## Memo
 
 Delete all containers including its volumes and images
