@@ -31,10 +31,13 @@ Spec-driven Development Kit for Power Platform
 
 Suppress emoji and ambiguous-width symbols
 ```
-## Terminal Output Rules
-- Do not use emoji (such as ✅ ❌ 🚀 🎉) in any output, including response text, file contents, and commit titles. For status indicators, use ASCII markers such as [x], [ ], OK, NG, or DONE instead.
-- Do not use circled numbers, geometric symbols, or arrow symbols. Use ASCII equivalents: (1) (2) (3) or 1. 2. 3. for ① ② ③; *, -, + for ★ ☆ ● ○ ◆ ■ ▲; ->, <-, ^, v for → ← ↑ ↓.
-- Box Drawing characters (─ │ ┌ ┐ ┘ └, etc.) may be used as-is.
+## Emoji/symbols
+Scope: terminal chat, commit messages, PR titles/bodies. Exempt: emoji/symbols as data in code (regex/string literals).
+- No emoji: U+231A-U+231B, U+2328, U+23CF, U+23E9-U+23F3, U+23F8-U+23FA, U+2600-U+27BF, U+2B00-U+2BFF, U+1F000-U+1FAFF; modifiers/joiners U+200D, U+FE0F, U+1F3FB-U+1F3FF, U+20E3. Status: [x] [ ] OK NG DONE.
+- No ambiguous-width symbols (EAW=A): arrows U+2190-U+21FF, enclosed alphanumerics U+2460-U+24FF, geometric shapes U+25A0-U+25FF. Use ASCII.
+- (1)(2)(3) or 1. 2. 3. for ① ② ③; * - + for ★ ☆ ● ○ ◆ ■ ▲.
+- Box Drawing U+2500-U+257F: allowed.
+
 ```
 
 ## Memo
